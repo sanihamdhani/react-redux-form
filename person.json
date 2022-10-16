@@ -1,0 +1,40 @@
+{
+  "person": [
+    {
+      "nama": "Sani hamdhani",
+      "alamat": "Bandung",
+      "id": 2
+    },
+    {
+      "nama": "ai",
+      "alamat": "Bandung",
+      "id": 4
+    },
+    {
+      "token": "633aac2f99b6c11c094bd474",
+      "project": "address_book",
+      "collection": "address_collection",
+      "appid": "633b914699b6c11c094bd489",
+      "nik": "adaa",
+      "email": "sdas",
+      "gender": "asdaa",
+      "divisi": "sdas",
+      "alamat": "asda",
+      "birthday": "asdas",
+      "id": 5
+    },
+    {
+      "token": "633aac2f99b6c11c094bd474",
+      "project": "address_book",
+      "collection": "address_collection",
+      "appid": "633b914699b6c11c094bd489",
+      "nik": "1111",
+      "email": "asd",
+      "gender": "asda",
+      "divisi": "asda",
+      "alamat": "sadsa",
+      "birthday": "asdada",
+      "id": 6
+    }
+  ]
+}
